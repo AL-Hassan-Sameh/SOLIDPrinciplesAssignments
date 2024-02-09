@@ -1,0 +1,7 @@
+C:\Users\Hassan\source\repos\LSPDemo\LSPDemo\obj\Debug\LSPDemo.csproj.AssemblyReference.cache
+C:\Users\Hassan\source\repos\LSPDemo\LSPDemo\obj\Debug\LSPDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\source\repos\LSPDemo\LSPDemo\bin\Debug\LSPDemo.exe.config
+C:\Users\Hassan\source\repos\LSPDemo\LSPDemo\bin\Debug\LSPDemo.exe
+C:\Users\Hassan\source\repos\LSPDemo\LSPDemo\bin\Debug\LSPDemo.pdb
+C:\Users\Hassan\source\repos\LSPDemo\LSPDemo\obj\Debug\LSPDemo.exe
+C:\Users\Hassan\source\repos\LSPDemo\LSPDemo\obj\Debug\LSPDemo.pdb
