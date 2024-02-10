@@ -1,4 +1,9 @@
-﻿using System;
+﻿using ISPDemo.GameEntity.Collectable.Rock;
+using ISPDemo.GameEntity.Collectable.Wood;
+using ISPDemo.GameEntity.Collectable;
+using ISPDemo.GameEntity.Player;
+using ISPDemo.GameEntity;
+using System;
 using System.Collections.Generic;
 
 namespace ISPDemo
