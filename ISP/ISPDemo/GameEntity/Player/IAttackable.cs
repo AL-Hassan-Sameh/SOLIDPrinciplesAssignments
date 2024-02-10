@@ -3,7 +3,7 @@ using System;
 
 namespace ISPDemo.GameEntity.Player
 {
-    public interface IAttackble
+    public interface IAttackable
     {
         // GameEntity that can attack
         void Attack();
