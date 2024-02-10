@@ -4,7 +4,7 @@ using System;
 
 namespace ISPDemo.GameEntity.Player
 {
-    public class Player : IGameEntity, IAttackble, IRunnable
+    public class Player : IGameEntity, IAttackable, IRunnable
     {
         public string Name => "Normal Player";
 
