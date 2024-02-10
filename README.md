@@ -4,4 +4,4 @@ This repository contains solutions to assignments related to the SOLID principle
 
 ## Assignments
 
-- [Assignment 3: Liskov Substitution Principle (LSP)](LSP/README.md)
+- [Assignment 3: Liskov Substitution Principle (LSP)](LSP)
