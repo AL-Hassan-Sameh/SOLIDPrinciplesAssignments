@@ -4,7 +4,7 @@ This project demonstrates the application of the Liskov Substitution Principle (
 
 ## Original PHP Project
 
-This C# project is an adaptation of the original PHP project available at [mmbakker/solid-design-principles/LiskovSubstitution](https://github.com/mmbakker/solid-design-principles/tree/main/LiskovSubstitution). The original PHP project served as the basis for this C# implementation.
+This C# project is an adaptation of the original PHP project available [here](https://github.com/mmbakker/solid-design-principles/tree/main/LiskovSubstitution). The original PHP project served as the basis for this C# implementation.
 
 ## Overview
 
