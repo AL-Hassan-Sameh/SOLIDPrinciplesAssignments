@@ -1,0 +1,7 @@
+F:\Programming\Design Patterns\Assignments\ISP\ISPDemo\ISPDemo\bin\Debug\ISPDemo.exe.config
+F:\Programming\Design Patterns\Assignments\ISP\ISPDemo\ISPDemo\bin\Debug\ISPDemo.exe
+F:\Programming\Design Patterns\Assignments\ISP\ISPDemo\ISPDemo\bin\Debug\ISPDemo.pdb
+F:\Programming\Design Patterns\Assignments\ISP\ISPDemo\ISPDemo\obj\Debug\ISPDemo.csproj.AssemblyReference.cache
+F:\Programming\Design Patterns\Assignments\ISP\ISPDemo\ISPDemo\obj\Debug\ISPDemo.csproj.CoreCompileInputs.cache
+F:\Programming\Design Patterns\Assignments\ISP\ISPDemo\ISPDemo\obj\Debug\ISPDemo.exe
+F:\Programming\Design Patterns\Assignments\ISP\ISPDemo\ISPDemo\obj\Debug\ISPDemo.pdb
