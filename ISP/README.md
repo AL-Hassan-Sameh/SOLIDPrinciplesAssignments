@@ -1,3 +1,5 @@
+![Interface Segregation Principle](ISP.jpg)
+
 # Interface Segregation Principle (ISP) Project
 
 ## Overview
