@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="300" src="https://miro.medium.com/v2/resize:fit:1400/1*iV_TeHoEDE0TwhQEFj2fxA.png">
+</p>
+
 # Liskov Substitution Principle
 
 This project demonstrates the application of the Liskov Substitution Principle (LSP) in object-oriented programming. LSP ensures that derived classes can be substituted for their base classes without affecting the behavior of the program.
