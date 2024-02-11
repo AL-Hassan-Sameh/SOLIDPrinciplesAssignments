@@ -1,5 +1,6 @@
-![Interface Segregation Principle](ISP.jpg)
-
+<p align="center">
+  <img width="460" height="300" src="https://miro.medium.com/v2/resize:fit:1200/1*YzBpqn1XSHOz9UpKc6HcJg.png">
+</p>
 # Interface Segregation Principle (ISP) Project
 
 ## Overview
