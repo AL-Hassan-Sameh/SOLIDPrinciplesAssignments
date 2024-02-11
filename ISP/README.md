@@ -4,6 +4,10 @@
 
 # Interface Segregation Principle (ISP) Project
 
+## Original PHP Project
+
+This C# project is an adaptation of the original PHP project available [here](https://github.com/mmbakker/solid-design-principles/tree/main/LiskovSubstitution). The original PHP project served as the basis for this C# implementation.
+
 ## Overview
 
 This project demonstrates the application of the Interface Segregation Principle (ISP) in object-oriented programming. ISP ensures that derived classes can be substituted for their base classes without affecting the behavior of the program.
