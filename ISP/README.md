@@ -6,7 +6,7 @@
 
 ## Original PHP Project
 
-This C# project is an adaptation of the original PHP project available [here](https://github.com/mmbakker/solid-design-principles/tree/main/LiskovSubstitution). The original PHP project served as the basis for this C# implementation.
+This C# project is an adaptation of the original PHP project available [here](https://github.com/mmbakker/solid-design-principles/tree/main/InterfaceSegregation). The original PHP project served as the basis for this C# implementation.
 
 ## Overview
 
